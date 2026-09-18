@@ -1,88 +1,87 @@
-# Hi, I'm Tuiana 👋
+# Привет! Я Туяна 👋
 
-### Web Designer & AI Creator
+### Веб-дизайнер и AI-креатор
 
-I create clear, thoughtful digital experiences — from websites and presentations to AI-powered visuals.
+Создаю понятные и продуманные цифровые проекты — сайты, презентации и визуалы с использованием искусственного интеллекта.
 
-My focus is not just on how a project looks, but on how it works:  
-**structure, meaning, UX, visual system and a clear user journey.**
-
----
-
-## ✦ What I do
-
-- **Web Design & Websites**  
-  Structure, content, UX/UI, visual concept and launch.
-
-- **Presentations**  
-  Clear storytelling, visual systems and presentation design.
-
-- **AI Visuals**  
-  AI-generated images, concepts, characters and creative content.
-
-- **AI-assisted workflows**  
-  Exploring how AI, code and automation can make creative work faster and more systematic.
+Для меня важно не только то, как выглядит проект, но и то, как он работает:  
+**структура, смыслы, UX, визуальная система и понятный путь пользователя.**
 
 ---
 
-## ✦ Currently exploring
+## ✦ Чем я занимаюсь
 
-- Git & GitHub
+- **Сайты и веб-дизайн**  
+  Структура, тексты, UX/UI, визуальная концепция и запуск.
+
+- **Презентации**  
+  Структура, сторителлинг, визуальная система и оформление слайдов.
+
+- **AI-визуал**  
+  Генерация изображений, персонажей, концепций и креативного контента.
+
+- **AI-инструменты и автоматизация**  
+  Изучаю, как сочетать дизайн, код и искусственный интеллект в рабочих процессах.
+
+---
+
+## ✦ Сейчас изучаю
+
+- Git и GitHub
 - HTML / CSS / JavaScript
 - AI-assisted development
 - OpenCode
-- AI agents and automation
-- new ways to combine **design + code + AI**
+- AI-агентов
+- автоматизацию рабочих процессов
+- возможности на стыке **дизайна + кода + AI**
 
 ---
 
-## ✦ My approach
+## ✦ Мой подход
 
-I believe good design should make things easier to understand.
+Я считаю, что хороший дизайн должен прежде всего помогать человеку быстрее понять информацию и сделать нужное действие.
 
-I prefer:
+Мне близки:
 
-`clarity` · `structure` · `functionality` · `calm visual language` · `attention to detail`
+`ясность` · `структура` · `функциональность` · `спокойная визуальная подача` · `внимание к деталям`
 
-rather than decoration for decoration's sake.
-
----
-
-## ✦ Selected focus
-
-I work with:
-
-- experts and personal brands
-- doctors and medical projects
-- businesses and services
-- digital products
-- AI-powered creative projects
+Без визуального шума и декора ради декора.
 
 ---
 
-## ✦ Tools
+## ✦ С какими проектами работаю
 
-**Design**  
+- эксперты и личные бренды
+- врачи и медицинские проекты
+- бизнес и услуги
+- digital-проекты
+- AI-креатив и визуальный контент
+
+---
+
+## ✦ Инструменты
+
+**Дизайн**  
 Figma · Tilda · Webflow · WordPress
 
 **Web**  
 HTML · CSS · JavaScript · Git · GitHub
 
-**AI & Creative**  
-ChatGPT · Midjourney · Kling · Suno · AI creative tools
+**AI и креатив**  
+ChatGPT · Midjourney · Kling · Suno · другие AI-инструменты
 
 ---
 
 ## ✦ Tuiana Design
 
-Independent web design & AI creative practice.
+Независимая практика в сфере веб-дизайна и AI-креатива.
 
-🌐 **Website:** [tuiana.ru](https://tuiana.ru)  
+🌐 **Сайт:** [tuiana.ru](https://tuiana.ru)  
 📷 **Instagram:** [@tuiana.design](https://instagram.com/tuiana.design/)  
 💬 **Telegram:** [@TuianaBudaeva](https://t.me/TuianaBudaeva)
 
 ---
 
-### Design × Technology × AI
+### Дизайн × Технологии × AI
 
-*Creating digital projects where visual aesthetics support meaning, not replace it.*
+*Создаю цифровые проекты, в которых визуал поддерживает смысл, а не заменяет его.*
